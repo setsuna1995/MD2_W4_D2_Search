@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/EX_01_Ascending_Series/EX_01_Ascending_Series.iml" filepath="$PROJECT_DIR$/EX_01_Ascending_Series/EX_01_Ascending_Series.iml" />
       <module fileurl="file://$PROJECT_DIR$/EX_Binnary_Search_Tree/EX_Binnary_Search_Tree.iml" filepath="$PROJECT_DIR$/EX_Binnary_Search_Tree/EX_Binnary_Search_Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/MD2_W4_D2_Search.iml" filepath="$PROJECT_DIR$/.idea/MD2_W4_D2_Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiniTest/MiniTest.iml" filepath="$PROJECT_DIR$/MiniTest/MiniTest.iml" />
     </modules>
   </component>
 </project>
